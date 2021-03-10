@@ -1,0 +1,4 @@
+uvicorn
+pymongo
+boto3
+fastapi
